@@ -1,9 +1,11 @@
-h1{
+
+  h1{
   font-size: 40px;
   font-family: monospace;
   text-align: center;
   background-color: brown;
   color: white;
+  padding: 10px 0px;
 }
 
 body{
@@ -17,4 +19,23 @@ h2{
 
 p{
   font-family: cursive;
+  font-size: 1.5rem
+}
+
+ul{
+  overflow: hidden;
+
+}
+
+li{
+  list-style-type: none;
+  float: left;
+  padding: 10px 20px;
+  font-size: 25px;
+
+}
+li a{
+  display: block;
+  text-decoration: none;
+  font-family: fantasy;
 }
