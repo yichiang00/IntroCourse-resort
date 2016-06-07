@@ -1,0 +1,38 @@
+ul{
+  overflow: hidden;
+
+}
+
+li{
+  list-style-type: none;
+  float: left;
+  padding: 10px 20px;
+  font-size: 25px;
+
+}
+li a{
+  display: block;
+  text-decoration: none;
+  font-family: fantasy;
+}
+ img{
+   width: 400px;
+   height: 400px;
+ }
+ h1{
+text-align: center;
+ font-size: 80px;
+ font-family: monospace;
+ background-color: rosybrown;
+ padding: 20px;
+ }
+.boat, .hiking, .camping, .bbq{
+  float:left;
+  font-size: 18px;
+  font-family: monospace;
+  padding: 20px;
+}
+p{
+  width: 400px;
+  
+}
