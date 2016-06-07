@@ -1,0 +1,38 @@
+
+ul{
+  overflow: hidden;
+
+}
+
+li{
+  list-style-type: none;
+  float: left;
+  padding: 10px 20px;
+  font-size: 25px;
+
+}
+li a{
+  display: block;
+  text-decoration: none;
+  font-family: fantasy;
+}
+h1{
+  /*background-image: url("http://images.marinas.com/med_res_id/116149");*/
+  /*background-repeat: no-repeat;*/
+  background-image: url("http://www.southernmostbeachresort.com/wp-content/uploads/2015/04/southernmost-hotel-key-west-home-banner3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -250px;
+  padding: 300px;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  font-family: fantasy;
+  letter-spacing: 5px;
+}
+.room-picture{
+    background-image: url("http://www.westbeachresort.com/images/oceanview2.jpg");
+}
+.book{
+    background-image: url("http://www.doradobeach.com/files/images/west-beach/west-beach-3312-3612/pool-yard.jpg");
+}
